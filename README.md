@@ -1,18 +1,48 @@
-💫 Hi 👋, I'm Atul Kumar Chourasia
-A passionate Full Stack Web Developer | DSA Learner | Blogger from India 🇮🇳
+# 💫 Hi 👋, I'm Atul Kumar Chourasia  
 
-📩 Email Me: 👉 ✉️ atulkumarchourasia221@example.com
-For collaboration, projects, or content creation — always open to connect! 😊
+### 🚀 A Passionate **Full Stack Web Developer | DSA Learner | Blogger** from 🇮🇳 India  
 
-🔭 I’m currently working on: Building my problem-solving skills with Java and DSA
-🌱 I’m currently learning: DSA with Java + Gen AI (LearnYard Course)
-👯 I’m looking to collaborate on: Tech blogs, learning projects
-🤔 I’m looking for help with: Improving my coding efficiency and understanding advanced DSA topics
-💬 Ask me about: Java & JavaScript, DSA, Gen AI, Blogging, and Collaboration
-📫 How to reach me: atulkumarchourasia221@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I learn something new every day and share it through my blogs! ✍️
-🔗 I’m also a content creator — I love writing blogs about tech, travel, and learning
+📩 **Email Me:** 👉 ✉️ [atulkumarchourasia221@example.com](mailto:atulkumarchourasia221@example.com)  
+💬 For **collaboration, projects, or content creation** — always open to connect! 😊  
+
+---
+
+## 🔭 Currently Working On  
+**Building my problem-solving skills with Java and DSA**
+
+## 🌱 Currently Learning  
+**DSA with Java + Gen AI (LearnYard Course)**
+
+## 👯 Looking to Collaborate On  
+**Tech blogs, learning projects, and web development ideas**
+
+## 🤔 Looking for Help With  
+**Improving my coding efficiency and mastering advanced DSA concepts**
+
+## 💬 Ask Me About  
+**Java & JavaScript, DSA, Gen AI, Blogging, and Collaboration**
+
+## 📫 How to Reach Me  
+📧 [atulkumarchourasia221@gmail.com](mailto:atulkumarchourasia221@gmail.com)
+
+## 😄 Pronouns  
+**He / Him**
+
+## ⚡ Fun Fact  
+✨ *I learn something new every day and share it through my blogs!* ✍️
+
+## 🔗 Also a Content Creator  
+I love writing blogs about **tech, travel, and learning experiences** —  
+sharing what I learn to inspire others to keep growing! 🌍  
+
+---
+
+### 🌐 Connect With Me  
+[LinkedIn](https://www.linkedin.com/in/atulkumarchourasia) • [GitHub](https://github.com/atulkumarchourasia) • [Blog](#)  
+
+---
+
+⭐ *“Code. Learn. Share. Repeat.”* 🚀  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atul-kumar-chourasia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-kumar-chourasia-36494827a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AtulKumarChourasia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atulkumarchourasia221@gmail.com) 
