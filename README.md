@@ -1,3 +1,18 @@
+💫 Hi 👋, I'm Atul Kumar Chourasia
+A passionate Full Stack Web Developer | DSA Learner | Blogger from India 🇮🇳
+
+📩 Email Me: 👉 ✉️ atulkumarchourasia221@example.com
+For collaboration, projects, or content creation — always open to connect! 😊
+
+🔭 I’m currently working on: Building my problem-solving skills with Java and DSA
+🌱 I’m currently learning: DSA with Java + Gen AI (LearnYard Course)
+👯 I’m looking to collaborate on: Tech blogs, learning projects
+🤔 I’m looking for help with: Improving my coding efficiency and understanding advanced DSA topics
+💬 Ask me about: Java & JavaScript, DSA, Gen AI, Blogging, and Collaboration
+📫 How to reach me: atulkumarchourasia221@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I learn something new every day and share it through my blogs! ✍️
+🔗 I’m also a content creator — I love writing blogs about tech, travel, and learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atul-kumar-chourasia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-kumar-chourasia-36494827a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AtulKumarChourasia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atulkumarchourasia221@gmail.com) 
