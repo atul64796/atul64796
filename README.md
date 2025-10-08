@@ -1,39 +1,20 @@
-
 # 💫 Hi 👋, I'm **Atul Kumar Chourasia**  
 
-A passionate **Full Stack Web Developer || DSA Learner || Blogger** from 🇮🇳 *India*  
+A passionate **Full Stack Web Developer | DSA Learner | Blogger** from 🇮🇳 India  
 
-📩 **Email Me:** 👉 ✉️ [atulkumarchourasia221@gmail.com](mailto:atulkumarchourasia221@gmail.com)  
-For **collaboration, projects, or content creation** — always open to connect! 😊😊  
+📩 **Email:** [atulkumarchourasia221@gmail.com](mailto:atulkumarchourasia221@gmail.com)  
 
 ---
 
-🔭 **I’m currently working on:**  
-Building my **problem-solving skills** with **Java and DSA**, and creating full stack projects to strengthen my development experience.  
+🔭 **Working on:** Java & DSA problem-solving, full stack projects  
+🌱 **Learning:** DSA with Java + Gen AI (LearnYard Course)  
+👯 **Collaborating on:** Tech blogs & learning projects  
+🤔 **Need help with:** Advanced DSA concepts & coding efficiency  
+💬 **Ask me about:** Java, JavaScript, DSA, Gen AI, Blogging  
 
-🌱 **I’m currently learning:**  
-**DSA with Java + Gen AI (LearnYard Course)** and exploring how **AI** can improve web development and productivity.  
-
-👯 **I’m looking to collaborate on:**  
-**Tech blogs**, **learning projects**, and **web development ideas** with other creators and developers.  
-
-🤔 **I’m looking for help with:**  
-Improving my **coding efficiency** and understanding **advanced DSA concepts** and **system design**.  
-
-💬 **Ask me about:**  
-**Java, JavaScript, DSA, Gen AI, Blogging, and Collaboration**  
-
-📫 **How to reach me:**  
-📧 [atulkumarchourasia221@gmail.com](mailto:atulkumarchourasia221@gmail.com)  
-
-😄 **Pronouns:**  
-**He / Him**  
-
-⚡ **Fun fact:**  
-✨ *I learn something new every day and share it through my blogs!* ✍️  
-
-🔗 **I am a Content Creator.** 😊😊  
-I love writing blogs about **tech, travel, and learning experiences** — sharing knowledge and inspiring others to grow together! 🌍  
+😄 **Pronouns:** He / Him  
+⚡ **Fun fact:** I learn something new daily and share it through my blogs!  
+🔗 **Content Creator:** Writing about tech, travel, and learning experiences 🌍  
 
 ### 🌐 Connect With Me  
 [LinkedIn](https://www.linkedin.com/in/atulkumarchourasia) • [GitHub](https://github.com/atulkumarchourasia) • [Blog](#)  
