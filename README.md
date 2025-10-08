@@ -1,23 +1,20 @@
-# 💫 Hi 👋, I'm **Atul Kumar Chourasia**  
+# 💫 Hi 👋, I'm Atul Kumar Chourasia
+**A passionate Full Stack Web Developer || DSA Learner || Blogger from India** 🇮🇳
 
-A passionate **Full Stack Web Developer | DSA Learner | Blogger** from 🇮🇳 India  
+Email Me 👉 ✉️ **atulkumarchourasia221@gmail.com**  
+For Collaboration, Projects, or Content Creation. 😊😊
 
-📩 **Email:** [atulkumarchourasia221@gmail.com](mailto:atulkumarchourasia221@gmail.com)  
+- 🔭 **I’m currently working on:** Java & DSA problem-solving, full stack projects
+- 🌱 **I’m currently learning:** DSA with Java + Gen AI (LearnYard Course)
+- 👯 **I’m looking to collaborate on:** Tech blogs & learning projects
+- 🤔 **I’m looking for help with:** Advanced DSA concepts & coding efficiency
+- 💬 **Ask me about:** Java, JavaScript, DSA, Gen AI, Blogging
+- 📫 **How to reach me:** atulkumarchourasia221@gmail.com
+- 😄 **Pronouns:** He / Him
+- ⚡ **Fun fact:** I learn something new every day and share it through my blogs!
 
----
-
-🔭 **Working on:** Java & DSA problem-solving, full stack projects  
-🌱 **Learning:** DSA with Java + Gen AI (LearnYard Course)  
-👯 **Collaborating on:** Tech blogs & learning projects  
-🤔 **Need help with:** Advanced DSA concepts & coding efficiency  
-💬 **Ask me about:** Java, JavaScript, DSA, Gen AI, Blogging  
-
-😄 **Pronouns:** He / Him  
-⚡ **Fun fact:** I learn something new daily and share it through my blogs!  
-🔗 **Content Creator:** Writing about tech, travel, and learning experiences 🌍  
-
-
-⭐ *“Code. Learn. Share. Repeat.”* 🚀  
+## 🔗 I am a Content Creator. 😊  
+I love writing blogs about **tech, travel, and learning experiences** — sharing what I learn to inspire others! 🌍
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atul-kumar-chourasia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-kumar-chourasia-36494827a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AtulKumarChourasia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atulkumarchourasia221@gmail.com) 
