@@ -16,10 +16,6 @@ A passionate **Full Stack Web Developer | DSA Learner | Blogger** from 🇮🇳 
 ⚡ **Fun fact:** I learn something new daily and share it through my blogs!  
 🔗 **Content Creator:** Writing about tech, travel, and learning experiences 🌍  
 
-### 🌐 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/atulkumarchourasia) • [GitHub](https://github.com/atulkumarchourasia) • [Blog](#)  
-
----
 
 ⭐ *“Code. Learn. Share. Repeat.”* 🚀  
 
